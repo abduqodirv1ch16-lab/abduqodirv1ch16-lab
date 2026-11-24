@@ -10,7 +10,7 @@ Currently studying at **PDP Academy**, focusing on Java backend development and 
 
 ### 👨‍💻 About Me
 
-- 🎓 Java Backend Development student at PDP Academy
+- 🎓 Java Backend Development 
 - ☕ Focused on Java, Spring Boot, and backend engineering
 - 🗄️ Interested in database design, security, and RESTful APIs
 - 🏗️ Building practical projects to improve my development skills
