@@ -1,4 +1,4 @@
-# Hi, I'm Abdurauf Boribekov 👋
+# Hi, I'm Abdurauf Boribekov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
 
 ### Aspiring Java Backend Developer
 
@@ -13,7 +13,7 @@ Currently studying at **PDP Academy**, focusing on Java backend development and 
 - 🎓 Java Backend Development student at PDP Academy
 - ☕ Focused on Java, Spring Boot, and backend engineering
 - 🗄️ Interested in database design, security, and RESTful APIs
-- 🏗️ Building real-world projects to improve my development skills
+- 🏗️ Building practical projects to improve my development skills
 - 📚 Always learning new technologies and best practices
 
 ---
@@ -23,8 +23,9 @@ Currently studying at **PDP Academy**, focusing on Java backend development and 
 **Programming Languages & Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-007396?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-007396?style=for-the-badge&logoColor=white)
 
 **Database & ORM**
 
@@ -39,52 +40,6 @@ Currently studying at **PDP Academy**, focusing on Java backend development and 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-#### 1. [ShopFlow](https://github.com/abduqodirv1ch16-lab/shopFlow_SpringBoot)
-
-A full-featured e-commerce backend API designed to manage online shopping operations.
-
-**Technologies:**
-Java 21, Spring Boot 4, Spring Security, JWT, Spring Data JPA, Hibernate, PostgreSQL.
-
-**Key Features:**
-- RESTful API architecture
-- JWT-based authentication
-- Role-based authorization (USER / ADMIN)
-- Product and user management
-- Product image and user avatar storage
-- API documentation with Swagger / OpenAPI
-
-#### 2. [MilliyGram](https://github.com/abduqodirv1ch16-lab/MilliyGram)
-
-A social networking application designed for connecting users and sharing content.
-
-**Technologies:**
-Java, Jakarta EE, Servlets, JSP, Hibernate, PostgreSQL.
-
-**Key Features:**
-- Posts, comments, and likes
-- Stories and user profiles
-- Private messaging
-- Notifications
-- Admin panel
-
-#### 3. [Real Library JPA](https://github.com/abduqodirv1ch16-lab/real-library-jpa)
-
-A database-driven Library Management System built with Java and Hibernate.
-
-**Technologies:**
-Java, Jakarta EE, JPA, Hibernate, PostgreSQL, Maven, HikariCP.
-
-**Key Features:**
-- Book management
-- Database-driven CRUD operations
-- Hibernate ORM integration
-- Connection pooling with HikariCP
 
 ---
 
@@ -108,4 +63,19 @@ Java, Jakarta EE, JPA, Hibernate, PostgreSQL, Maven, HikariCP.
 
 ---
 
-*Always learning. Always building. Always improving.*
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abduqodirv1ch16-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduqodirv1ch16-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abduqodirv1ch16-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
