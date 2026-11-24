@@ -4,7 +4,6 @@
 
 I'm a Java backend developer in training, passionate about building practical applications and solving real-world problems through code.
 
-Currently studying at **PDP Academy**, focusing on Java backend development and continuously improving my programming skills through hands-on projects.
 
 ---
 
@@ -46,12 +45,13 @@ Currently studying at **PDP Academy**, focusing on Java backend development and 
 ### 📚 Currently Learning
 
 - Advanced Java
+- Jakarta EE
 - Spring Boot
 - Spring Security and JWT
 - RESTful API development
 - SQL and database optimization
 - Software architecture and clean code
-- Unit testing with JUnit and Mockito
+
 
 ---
 
